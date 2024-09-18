@@ -1,0 +1,83 @@
+nav{
+    background-color: #FFF0D5;
+    height: 60px;
+    padding: 0 5%;
+    align-items: center;
+}
+.hidde{
+    display: block;
+}
+.hidden{
+    display: none;
+}
+.links{
+    display: flex;
+    gap: 50px;
+}
+.links .a{
+    color: #096455;
+    text-decoration: none;
+    font-weight: 600;
+}
+.inicio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #096455;
+    width: 90px;
+    height: 25px;
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 600;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #096455;
+    border-radius: 20px;
+    width: 90px;
+    height: 25px;
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 600;
+    border: none;
+}
+.links{
+    display: flex;
+}
+.main-primera-seccion{
+    background-image: url(../assets/images/espirales-horizontal.jpg);
+}
+.btn{
+    width: 155px;
+    height: 56px;
+    background-color: #E46F0A;
+    border-radius: 50px;
+    border: none;
+    font-size: 30px;
+    color: #FFFFFF;
+    transition: .3s ease;
+    margin-top: 50px;
+}
+.h2{
+    color: #096455;
+    font-family: "Hand";
+    font-size: 55px;
+}
+p{
+    font-size: 16px;
+}
+.articulo h5{
+    font-size: 20px;
+}
+.articulo{
+
+    height: 370px;
+
+}
+.user div h5{
+    font-size: 20px;
+}
